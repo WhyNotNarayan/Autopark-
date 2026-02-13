@@ -5,10 +5,10 @@ Here is a fully professional, high-impact README for your **AutoPark** project. 
 # 🚗 AutoPark – Smart Parking Management System
 
 <p align="center">
-<img src="[https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/PHP-777BB4%3Fstyle%3Dfor-the-badge%26logo%3Dphp%26logoColor%3Dwhite)" alt="PHP">
-<img src="[https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)" alt="MySQL">
-<img src="[https://img.shields.io/badge/XAMPP-FB6305?style=for-the-badge&logo=xampp&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/XAMPP-FB6305%3Fstyle%3Dfor-the-badge%26logo%3Dxampp%26logoColor%3Dwhite)" alt="XAMPP">
-<img src="[https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge](https://www.google.com/search?q=https://img.shields.io/badge/License-MIT-yellow%3Fstyle%3Dfor-the-badge)" alt="License">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge">
+  <img src="https://img.shields.io/badge/XAMPP-FB6305?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP Badge">
+  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="MIT License Badge">
 </p>
 
 <p align="center">
